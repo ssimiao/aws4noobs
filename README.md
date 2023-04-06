@@ -10,32 +10,29 @@
 
 * [Roadmap](#roadmap)
     - [AWS](./doc/aws)
-    - [LocalStack](#environment)
-    - ACM
-    - API Gateway
-    - CloudFormation
-    - CloudWatch
-    - CloudWatch Logs
-    - DynamoDB
-    - DynamoDB Streams
-    - EC2
-    - Elasticsearch Service
-    - EventBridge (CloudWatch Events)
-    - Firehose
-    - IAM
-    - Kinesis
-    - KMS
-    - Lambda
-    - Redshift
-    - Route53
-    - S3
-    - SecretsManager
-    - SES
-    - SNS
-    - SQS
-    - SSM
-    - StepFunctions
-    - STS
+    - [LocalStack](./doc/localstack)
+    - [ACM](./doc/acm)
+    - [API Gateway](./doc/api-gateway)
+    - [CloudFormation](./doc/cloud-formation)
+    - [CloudWatch](./doc/cloud-watch)
+    - [DynamoDB](./doc/dynamo)
+    - [EC2](./doc/ec2)
+    - [Elasticsearch Service](./doc/elastic-search)
+    - [EventBridge](./doc/event-bridge)
+    - [IAM](./doc/iam)
+    - [Kinesis](./doc/kinesis)
+    - [KMS](./doc/kms)
+    - [Lambda](./doc/lambda)
+    - [Redshift](./doc/redshift)
+    - [Route53](./doc/route-53)
+    - [S3](./doc/s3)
+    - [SecretsManager](./doc/secret-manager)
+    - [SES](./doc/ses)
+    - [SNS](./doc/sns)
+    - [SQS](./doc/sqs)
+    - [SSM](./doc/ssm)
+    - [StepFunctions](./doc/step-function)
+    - [STS](./doc/sts)
     
 * [Outros](#others)
 * [Licença](#license)
