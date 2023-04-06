@@ -33,7 +33,7 @@
     - [SSM](./doc/ssm)
     - [StepFunctions](./doc/step-function)
     - [STS](./doc/sts)
-    
+    - [Certificação AWS](#certification)
 * [Outros](#others)
 * [Licença](#license)
 * [Contribuindo](#contributing)
