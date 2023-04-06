@@ -3,37 +3,52 @@
 </header>
 
 <header>
-  <h2 align="center">Spring4noobs</h2>
-  <h1 align="center"><img src="assets/spring-logo.svg" alt="framework" width="100"></h1>
+  <h2 align="center">aws4noobs</h2>
+  <h1 align="center"><img src="assets/aws-logo.svg" alt="aws-logo" width="100"></h1>
 
 </header>
 
 * [Roadmap](#roadmap)
-    - [A linguagem](#language)
-    - [Configuração de ambiente](#environment)
+    - [AWS](#language)
+    - [LocalStack](#environment)
+    - ACM
+    - API Gateway
+    - CloudFormation
+    - CloudWatch
+    - CloudWatch Logs
+    - DynamoDB
+    - DynamoDB Streams
+    - EC2
+    - Elasticsearch Service
+    - EventBridge (CloudWatch Events)
+    - Firehose
+    - IAM
+    - Kinesis
+    - KMS
+    - Lambda
+    - Redshift
+    - Route53
+    - S3
+    - SecretsManager
+    - SES
+    - SNS
+    - SQS
+    - SSM
+    - StepFunctions
+    - STS
+    
 * [Outros](#others)
 * [Licença](#license)
 * [Contribuindo](#contributing)
-
-<div id='roadmap'></div> 
-
-## Roadmap
-
-<div id='language'></div> 
-
-### O Framework
-
-
-<div id='environment'></div> 
-
-### Configuração de ambiente
-
+ 
 
 <div id='others'></div> 
 
 ## Outros
 
 - [IDEA](https://www.jetbrains.com/idea/download/#section=linux).
+
+<div id='license'></div>
 
 ## Licença
 
