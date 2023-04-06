@@ -9,7 +9,7 @@
 </header>
 
 * [Roadmap](#roadmap)
-    - [AWS](#language)
+    - [AWS](./doc/aws)
     - [LocalStack](#environment)
     - ACM
     - API Gateway
