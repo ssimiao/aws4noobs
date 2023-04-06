@@ -4,7 +4,7 @@
 
 <header>
   <h2 align="center">aws4noobs</h2>
-  <h1 align="center"><img src="assets/aws-logo.svg" alt="aws-logo" width="100"></h1>
+  <h1 align="center"><img src="assets/aws-logo.svg" alt="aws-logo" width="150"></h1>
 
 </header>
 
